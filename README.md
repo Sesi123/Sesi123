@@ -6,4 +6,4 @@ https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CsoFsFpfXmClzUIwiTrW9JGVkYS
 
 #EXTINF:-1 group-title=CANALES NIÑOS ,AMERICA
 
-https://us-b4-p-e-ja16.cdn.mdstrm.com/live-stream-secure/6099b04d9418ac082441dd74/publish/media_2500.m3u8?aid=5b8ea6f89ff52d0770a144c4&uid=Cnnqdg5TzEunWKE7CTCS5uPFcuns0IPg&sid=p9YM3u2ZhBInOCBB4drkkwLQQmedFwRn&pid=EOOObWyklwCVlVsdAfFvb53ZEbMGTTaM&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&without_cookies=false&listenerid=&dnt=true&access_token=8y3mXqG89VQt6e49kDfyW81D1I50l5mQB9M2DxdT0iIsOe8WdNQSLTYoy9TVDQJMCKn6j7JBv9Q&es=us-b4-p-e-ja16.cdn.mdstrm.com&ote=1686532475030&ot=RDlXSOhoD5ggYPTfyNw0Yg&proto=https&pz=us
+https://us-b4-p-e-ja16.cdn.mdstrm.com/live-stream-secure/6099b04d9418ac082441dd74/publish/media_1800.m3u8?aid=5b8ea6f89ff52d0770a144c4&uid=Cnnqdg5TzEunWKE7CTCS5uPFcuns0IPg&sid=p9YM3u2ZhBInOCBB4drkkwLQQmedFwRn&pid=EOOObWyklwCVlVsdAfFvb53ZEbMGTTaM&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&without_cookies=false&listenerid=&dnt=true&access_token=8y3mXqG89VQt6e49kDfyW81D1I50l5mQB9M2DxdT0iIsOe8WdNQSLTYoy9TVDQJMCKn6j7JBv9Q&es=us-b4-p-e-ja16.cdn.mdstrm.com&ote=1686532475030&ot=RDlXSOhoD5ggYPTfyNw0Yg&proto=https&pz=us
